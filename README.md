@@ -2,5 +2,5 @@
 helpful things for school 
 
 
-#disclamer
+# disclamer
 i made not a single thing in here.
