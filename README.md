@@ -1,4 +1,4 @@
-# schoolsources
+# School Sources
 a group of helpful things for school and other random shit all localized into one page!
 
 **DISCLAMER**
