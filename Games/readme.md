@@ -63,7 +63,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 [Run 3](https://lekug.github.io) - Little man in space. [Play it now!](https://lekug.github.io/tn6pS9dCf37xAhkJv)
 
-
+[Run 3](https://github.com/binary-pumpkin/2048) - Add the numbers up to 2048, simple. [Play it now!](binary-pumpkin.github.io/2048/)
 
 # Browser-Based
 
