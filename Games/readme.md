@@ -59,7 +59,9 @@ A selection of major game studios, publishers, etc. using GitHub:
 [<img src="https://github.com/blizzard.png" title="Blizzard" height="50">](https://github.com/blizzard)&nbsp;
 [<img src="https://github.com/ccpgames.png" title="CCP Games" height="50">](https://github.com/ccpgames)&nbsp;
 
-# Popular [Run 3](https://lekug.github.io) - Little man in space. [Play it now!]
+# Popular 
+
+[Run 3](https://lekug.github.io) - Little man in space. [Play it now!]
 (https://lekug.github.io/tn6pS9dCf37xAhkJv)
 
 
