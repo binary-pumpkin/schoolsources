@@ -6,6 +6,6 @@
 
 [Gxmes Hub](https://binary-pumpkin.github.io/Game-hub/) - A game hub.
 
-[3kh0](https://binary-pumpkin.github.io/echo/) - A nother game hub.
+[3kh0](https://binary-pumpkin.github.io/echo/) - Another game hub.
 
 [SHS Games](binary-pumpkin.github.io/gxme-hub/) - A unblocked game website.
