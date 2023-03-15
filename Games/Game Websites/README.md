@@ -1,4 +1,4 @@
-# Game Website
+# Game Websites
 
 **here are some websites were you can play games**
 
