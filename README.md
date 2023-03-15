@@ -20,4 +20,4 @@ https://github.com/leereilly
 
 Go show the orginal creators some love!
 
-If you find anything not working or blocked go to this page: https://docs.google.com/forms/d/e/1FAIpQLSd--wPqaJUtXvfPjoIoguYmElUvNZTPtoYmdH_WSi0PrdY56g/viewform?usp=sf_link
+If you find anything not working or blocked go to this page: [https://docs.google.com/forms/problem](https://docs.google.com/forms/d/e/1FAIpQLSd--wPqaJUtXvfPjoIoguYmElUvNZTPtoYmdH_WSi0PrdY56g/viewform?usp=sf_link)
