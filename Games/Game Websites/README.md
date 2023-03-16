@@ -9,3 +9,5 @@
 [3kh0](https://binary-pumpkin.github.io/echo/) - Another game hub.
 
 [SHS Games](binary-pumpkin.github.io/gxme-hub/) - A unblocked game website.
+
+[TGC Unblocked Games](https://tgcofficial.github.io/games/) - Another unblocked game website
