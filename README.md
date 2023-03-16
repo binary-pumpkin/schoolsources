@@ -22,7 +22,7 @@ Go show the orginal creators some love!
 
 # Extra Info
 
-My website (discontinued) https://sites.google.com/view/school-sources/home
+~~My website (discontinued) https://sites.google.com/view/school-sources/home~~
 
 If you find anything not working or blocked go to this page: [google forms](https://docs.google.com/forms/d/e/1FAIpQLSd--wPqaJUtXvfPjoIoguYmElUvNZTPtoYmdH_WSi0PrdY56g/viewform?usp=sf_link)
 
