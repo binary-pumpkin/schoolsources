@@ -35,3 +35,5 @@
 [Art Class](https://sites.google.com/view/artclass-site/home?authuser=0) - A clean unblocked game website
 
 [Lioxryt](https://lioxrytbackup.github.io/) - ASDHJASDHKJASDKHJKDS
+
+[Shadow Games](https://binary-pumpkin.github.io/shadowgames/) - gamez
