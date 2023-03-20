@@ -3,3 +3,5 @@
 Here are a list of unblocked chatting websites, 
 
 1. [Element](https://app.element.io/) its alot like discord, works great.
+
+2. [Revolt](https://app.revolt.chat/login) litteraly a discord clone
