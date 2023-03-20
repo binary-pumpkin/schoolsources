@@ -5,6 +5,6 @@
 
 2. [Elixer](https://jesus.is-a.win/) - a good proxy
 
-3. Kproxy: 192.95.4.124, 37.187.147.158,  (you have to put it into url search
+3. Kproxy: 192.95.4.124, 37.187.147.158,  (you have to put it into url search bar)![image](https://user-images.githubusercontent.com/125479258/226427199-1279208a-33a2-4721-bbcb-0e0bbaf5fa12.png)
 
 4. 
