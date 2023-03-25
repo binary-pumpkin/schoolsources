@@ -1,20 +1,31 @@
 # Proxys 
 
-*a Proxy is a way to get aroud blocking/sencership
+**Notes
 
-##disclamer
+-What is a proxy? A proxy is away to avoid internet censorship and access blocked websites. 
 
-there are extreamly hard to find, dont go and give them to all your friends.
+-There are extreamly hard to find, dont go and give them to all your friends.
 
-1. [Holy Unblocker](https://responsible-silk-celestite.glitch.me) -one of the best unblockers (faster than Elixer but more buggy)
+[Holy Unblocker](https://responsible-silk-celestite.glitch.me) - one of the best unblockers (faster than Elixer but more buggy)
 
-2. [Elixer](https://jesus.is-a.win/) - a good proxy
+[Holy Unblocker 2](https://provescene.org/) - another versoin of Holy Unblocker that uses ultravoilt.
 
-3. Kproxy: 192.95.4.124  (you have to put it into url search bar)[image]( https://user-images.githubusercontent.com/125479258/226427199-1279208a-33a2-4721-bbcb-0e0bbaf5fa12.png)
+[Elixer](https://jesus.is-a.win/) - a good proxy
 
-4. [Ludicrous](https://glittery-imaginary-summer.glitch.me/surf) - an ok unblocker
+[Kproxy](https://192.95.4.124/) - A ok proxy, not to astheticly pleasing. 
 
-5.[Shadow](https://somber-eggplant-people.glitch.me/) - A FogNetwork Proxy
+[Ludicrous](https://glittery-imaginary-summer.glitch.me/surf) - an ok proxy
+
+[Shadow](https://somber-eggplant-people.glitch.me/) - A FogNetwork Proxy
 
 [Nebula](https://thisismathhomework.onrender.com/) - a extreamly good ultra voilet proxy
+
+[Metalic](https://birdfood.gq/) - Another ultravoilet proxy, still in heavy development. Works 50% of the time.
+
+[Utopia](https://learningprep.xyz/) - A simple proxy
+
+[Abyss](https://panel.redsteedstudios.com/) - Very good simpe proxy, works really well.
+
+[TIWcog](https://starttiw.vercel.app/static/index.html) - a good vercel proxy.
+
 
