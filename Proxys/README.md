@@ -1,6 +1,6 @@
 # Proxys 
 
-**Notes
+**Notes**
 
 -What is a proxy? A proxy is away to avoid internet censorship and access blocked websites. 
 
