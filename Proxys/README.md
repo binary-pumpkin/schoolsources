@@ -1,23 +1,20 @@
-# Proxys
+# Proxys 
 
-All of these proxys are most likeyly blocked, but have fun trying to deploy them!
+*a Proxy is a way to get aroud blocking/sencership
 
-[ultravoilet](https://github.com/titaniumnetwork-dev/Ultraviolet)
+##disclamer
 
-[Holy Unblocker](https://github.com/holy-unblocker/website)
+there are extreamly hard to find, dont go and give them to all your friends.
 
-[Terbium](https://github.com/TerbiumOS/webOS)
+1. [Holy Unblocker](https://responsible-silk-celestite.glitch.me) -one of the best unblockers (faster than Elixer but more buggy)
 
-[Ingocnito](https://github.com/caracal-js/Incognito)
+2. [Elixer](https://jesus.is-a.win/) - a good proxy
 
-[Nebula](https://github.com/NebulaServices/Nebula)
+3. Kproxy: 192.95.4.124  (you have to put it into url search bar)[image]( https://user-images.githubusercontent.com/125479258/226427199-1279208a-33a2-4721-bbcb-0e0bbaf5fa12.png)
 
-[Metallic](https://github.com/Metallic-Web/Metallic)
+4. [Ludicrous](https://glittery-imaginary-summer.glitch.me/surf) - an ok unblocker
 
-[Hypertabs](https://github.com/amethystnetwork-dev/Hypertabs)
+5.[Shadow](https://somber-eggplant-people.glitch.me/) - A FogNetwork Proxy
 
-[Illusive](https://github.com/illusive-dev/Illusive)
+[Nebula](https://thisismathhomework.onrender.com/) - a extreamly good ultra voilet proxy
 
-[Ludicrus](https://github.com/titaniumnetwork-dev/Ludicrous)
-
-[Radon](https://github.com/Radon-Games/Radon-Games)
