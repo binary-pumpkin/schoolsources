@@ -32,7 +32,11 @@
 
 [Incognito](https://incognito-3497.onrender.com/) - A simple unltravoilet proxy (very fast)
 
+[RammerHead](https://www.discoveryeducation.cf/) - A very good simple proxy.
+
 [Intersteller](https://officalvalues.onrender.com/) - A very good proxy website.
+
+[Rouge](https://lakesidetuition.info/) - Another ultravoilet proxy
 
 [Ruby Network](https://rubynetwork.tech/search) - A game/proxy site
 
