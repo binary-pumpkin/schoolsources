@@ -28,3 +28,7 @@ https://www.discoveryeducation.cf/ https://login.discoveryeducation.cf/ https://
 # Intersteller:
 
 https://watergirlandfun123.onrender.com/ https://coolclownsininstaltor.onrender.com/ https://tornadogatoradefunny.onrender.com/ https://djfuntololmicasadf.onrender.com/ https://amongtablettornadoel.onrender.com/ https://bradwithbrainscloths.onrender.com/ https://iputheforgisoncooltorfunxuxmm.onrender.com/ https://fourskepbuttonsmangos.onrender.com/ https://spiinsidierrelssedmeganfi.onrender.com/ https://wapplelightswitchsarh.onrender.com/ https://wildcotwichaseproch.onrender.com/ https://safetorbasemment.onrender.com/ https://iphone14realisbscupold.onrender.com/ https://idkwhatgotem360codm.onrender.com/ https://danworksforlaufhs123.onrender.com/ https://autodocerfilledinter.onrender.com/ https://iaminwalhomeupto.onrender.com/ https://o8iuiuufunsttormyeeyt.onrender.com/ https://officalvalues.onrender.com/ https://reemoigmoidredit.onrender.com/
+
+## a google doc
+
+https://docs.google.com/document/d/1QZ7r6-Qa8swLTIcRadPGYCyKEi9t4Nocr8FAGfSJulA/edit
