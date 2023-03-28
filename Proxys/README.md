@@ -6,6 +6,8 @@
 
 -There are extreamly hard to find, dont go and give them to all your friends.
 
+-If its *italicized* you can give it out.
+ 
 [Ultravoilet](https://ionian-electric-pelican.glitch.me/) - THE ultravoilet, a lot of proxys use this.
 
 [Holy Unblocker](https://responsible-silk-celestite.glitch.me) - one of the best unblockers (faster than Elixer but more buggy)
@@ -14,7 +16,7 @@
 
 [Elixer](https://jesus.is-a.win/) - a good proxy
 
-[Kproxy](https://192.95.4.124/) - A ok proxy, not to astheticly pleasing. 
+*[Kproxy](https://192.95.4.124/)* - A ok proxy, not to astheticly pleasing. 
 
 [Ludicrous](https://glittery-imaginary-summer.glitch.me/surf) - an ok proxy
 
@@ -36,8 +38,8 @@
 
 [Intersteller](https://officalvalues.onrender.com/) - A very good proxy website.
 
-[Rouge](https://lakesidetuition.info/) - Another ultravoilet proxy
+*[Rouge](https://lakesidetuition.info/)* - Another ultravoilet proxy
 
-[Ruby Network](https://rubynetwork.tech/search) - A game/proxy site
+*[Ruby Network](https://rubynetwork.tech/search)* - A game/proxy site
 
 [lemontabs(a fork of hypertabs)](https://lemontabs.onrender.com/) - Just a fork of Hypertabs because i couldent find any hypertabs links
