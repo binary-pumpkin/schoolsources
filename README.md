@@ -1,5 +1,5 @@
 # School Sources
-a group of helpful things for school and other random shit all localized into one page!
+A group of helpful things for school and other random shit all localized into one page!
 
 **DISCLAMER**
 
@@ -18,6 +18,14 @@ https://github.com/SHSGames
 
 https://github.com/leereilly
 
+https://github.com/titaniumnetwork-dev
+
+https://github.com/Nebelung-Dev
+
+https://github.com/FogNetwork
+
+And many more i may have missed.
+
 Go show the orginal creators some love!
 
 # Extra Info
@@ -31,3 +39,5 @@ If you want to sugest/request something to be added fill out this form: [google 
 You can also reach me at this email: schoolsourceshelp@gmail.com or message me on discord at UpsidownCookie#2419
 
 You could also join the discord: [discord invite](https://www.google.com/url?q=https%3A%2F%2Fdiscord.gg%2FmHNHavHevP&sa=D&sntz=1&usg=AOvVaw0cR-u1GasHggzlvH1AEZxF)
+
+I dont check the email very much, the best way to reach me is via discord.
