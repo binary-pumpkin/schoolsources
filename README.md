@@ -1,6 +1,8 @@
 # School Sources
 A group of helpful things for school and other random shit all localized into one page!
 
+*please* dont give any of the stuff out like free (insert analogy here), it is hard to find these and if it gets blocked there is really nothing i can do about it.
+
 **DISCLAMER**
 
 I do not claim or take ownership of most of these Sources and they were moved to this page for general localization!
@@ -36,7 +38,7 @@ If you find anything not working or blocked go to this page: [google forms](http
 
 If you want to sugest/request something to be added fill out this form: [google forms](https://forms.gle/ve1Ew33ySbkNty4r5)
 
-You can also reach me at this email: schoolsourceshelp@gmail.com or message me on discord at UpsidownCookie#2419
+You can also reach me at this email: schoolsourceshelp@gmail.com or message me on discord at Cooki3HD#2419
 
 You could also join the discord: [discord invite](https://www.google.com/url?q=https%3A%2F%2Fdiscord.gg%2FmHNHavHevP&sa=D&sntz=1&usg=AOvVaw0cR-u1GasHggzlvH1AEZxF)
 
