@@ -43,3 +43,5 @@
 *[Ruby Network](https://rubynetwork.tech/search)* - A game/proxy site
 
 [lemontabs(a fork of hypertabs)](https://lemontabs.onrender.com/) - Just a fork of Hypertabs because i couldent find any hypertabs links
+
+[CroxyProxy](https://www.a.cpfrx.info/) - A proxy
