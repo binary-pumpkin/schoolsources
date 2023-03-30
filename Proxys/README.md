@@ -14,7 +14,7 @@
 
 [Holy Unblocker 2](https://provescene.org/) - another versoin of Holy Unblocker that uses ultravoilt.
 
-[Elixer](https://jesus.is-a.win/) - a good proxy
+[Elixer](https://cerryx.net/) - a good proxy
 
 *[Kproxy](https://192.95.4.124/)* - A ok proxy, not to astheticly pleasing. 
 
