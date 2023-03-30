@@ -1,5 +1,5 @@
 # School Sources
-A group of helpful things for school and other random shit all localized into one page!
+A library of helpful things for school and other random shit all localized into one page!
 
 *please* dont give any of the stuff out like free (insert analogy here), it is hard to find these and if it gets blocked there is really nothing i can do about it.
 
