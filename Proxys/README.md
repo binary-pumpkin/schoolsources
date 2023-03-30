@@ -53,3 +53,7 @@
 [Ball bang](https://math.appnaz.com/) - A shitty proxy
 
 [PB9k](https://synik.gq/) - A random ass proxy
+
+[Node Unblocker](https://science-quizzez.vercel.app/) - A proxy using node.js
+
+[Canda math](https://canadamath.azurewebsites.net/#) - A proxy that uses ultravoilet
