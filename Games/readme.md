@@ -1,4 +1,4 @@
-# Games on GitHub <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Games on GitHub">
+# Game Websites on GitHub <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Games on GitHub">
 
 Below is a ever growing list of unblocked game websites, from io games to geometry dash we got it. 
 
