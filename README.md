@@ -8,23 +8,7 @@ A library of helpful things for school and other random shit all localized into 
 I do not claim or take ownership of most of these Sources and they were moved to this page for general localization!
 Sources for orginal projects creators below.
 
-https://github.com/3kh0
-
-https://github.com/Minesraft2
-
-https://github.com/ading2210
-
-https://github.com/syspl
-
-https://github.com/SHSGames
-
-https://github.com/leereilly
-
-https://github.com/titaniumnetwork-dev
-
-https://github.com/Nebelung-Dev
-
-https://github.com/FogNetwork
+to see were i got my things go to the "Sources" page
 
 And many more i may have missed.
 
