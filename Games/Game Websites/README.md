@@ -39,3 +39,5 @@
 [Shadow Games](https://binary-pumpkin.github.io/shadowgames/) - gamez
 
 [Astroid](https://astroidv2.vyper.group/) - A website with a fuck ton of games (6000+)
+
+[RadonGames](https://rdg.scythx.cf/) - A game website and a proxy!!!
