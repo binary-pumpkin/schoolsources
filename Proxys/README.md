@@ -47,3 +47,9 @@
 [CroxyProxy](https://www.a.cpfrx.info/) - A proxy
 
 [RadonGames](https://rdg.scythx.cf/) - A proxy and a game website (uses ultraviolet)
+
+[Emerald](https://ill.malmo.cl/) - A proy
+
+[Ball bang](https://math.appnaz.com/) - A shitty proxy
+
+[PB9k](https://synik.gq/) - A random ass proxy
