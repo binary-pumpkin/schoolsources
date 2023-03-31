@@ -10,9 +10,7 @@
  
 [Ultravoilet](https://ionian-electric-pelican.glitch.me/) - THE ultravoilet, a lot of proxys use this.
 
-[Holy Unblocker](https://responsible-silk-celestite.glitch.me) - one of the best unblockers (faster than Elixer but more buggy)
-
-[Holy Unblocker 2](https://provescene.org/) - another versoin of Holy Unblocker that uses ultravoilt.
+[Holy Unblocker](https://responsible-silk-celestite.glitch.me) - one of the best unblockers 
 
 [Elixer](https://cerryx.net/) - a good proxy
 
@@ -50,10 +48,10 @@
 
 [Emerald](https://ill.malmo.cl/) - A proy
 
-[Ball bang](https://math.appnaz.com/) - A shitty proxy
+*[Ball bang](https://math.appnaz.com/)* - A shitty proxy
 
-[PB9k](https://synik.gq/) - A random ass proxy
+*[PB9k](https://synik.gq/)* - A random ass proxy
 
-[Node Unblocker](https://science-quizzez.vercel.app/) - A proxy using node.js
+*[Node Unblocker](https://science-quizzez.vercel.app/)* - A proxy using node.js
 
 *[Canda math](https://canadamath.azurewebsites.net/#)* - A proxy that uses ultravoilet
