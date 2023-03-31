@@ -20,7 +20,7 @@
 
 [Shadow](https://somber-eggplant-people.glitch.me/) - A FogNetwork Proxy
 
-[Nebula](https://thisismathhomework.onrender.com/) - a extreamly good ultra voilet proxy
+~~[Nebula](https://thisismathhomework.onrender.com/) - a extreamly good ultra voilet proxy~~
 
 [Metalic](https://birdfood.gq/) - Another ultravoilet proxy, still in heavy development. Works 50% of the time.
 
@@ -30,7 +30,7 @@
 
 [TIWcog](https://starttiw.vercel.app/static/index.html) - a good vercel proxy.
 
-[Incognito](https://incognito-3497.onrender.com/) - A simple unltravoilet proxy (very fast)
+~~[Incognito](https://incognito-3497.onrender.com/) - A simple unltravoilet proxy (very fast)~~
 
 [RammerHead](https://www.discoveryeducation.cf/) - A very good simple proxy.
 
@@ -40,7 +40,7 @@
 
 *[Ruby Network](https://rubynetwork.tech/search)* - A game/proxy site
 
-[lemontabs(a fork of hypertabs)](https://lemontabs.onrender.com/) - Just a fork of Hypertabs because i couldent find any hypertabs links
+~~[lemontabs(a fork of hypertabs)](https://lemontabs.onrender.com/) - Just a fork of Hypertabs because i couldent find any hypertabs links~~
 
 [CroxyProxy](https://www.a.cpfrx.info/) - A proxy
 
