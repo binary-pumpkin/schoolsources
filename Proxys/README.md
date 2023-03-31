@@ -4,7 +4,7 @@
 
 -What is a proxy? A proxy is away to avoid internet censorship and access blocked websites. 
 
--There are extreamly hard to find, dont go and give them to all your friends. BECUASE WHEN YOU GIVE IT OUT, RENDER GETS FUCKING BLOCKER.
+-There are extreamly hard to find, dont go and give them to all your friends. BECUASE WHEN YOU GIVE IT OUT, RENDER GETS FUCKING BLOCKED.
 
 -If its *italicized* you can give it out.
  
