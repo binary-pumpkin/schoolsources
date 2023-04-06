@@ -1,5 +1,11 @@
 # ChatGPT prompts
 
+Chat gpt websites:
+
+[Chat GPT](chat.openai.com) - The basic open ai chat gpt
+
+[DeepAI](deepai.org) - A different chat gpt website
+
 here are some cool chat gpt prompts. (JB stands for "Jail Break").
 
 **PUT YOUR PROMPT WERE IT SAYS INSERT PROMPT HERE**
