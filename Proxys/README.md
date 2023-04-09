@@ -55,3 +55,5 @@
 *[Node Unblocker](https://science-quizzez.vercel.app/)* - A proxy using node.js
 
 *[Canda math](https://canadamath.azurewebsites.net/#)* - A proxy that uses ultravoilet
+
+[TBG95](https://education-live.fun/) - no notes
