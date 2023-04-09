@@ -20,7 +20,7 @@
 
 [Shadow](https://somber-eggplant-people.glitch.me/) - A FogNetwork Proxy
 
-~~[Nebula](https://thisismathhomework.onrender.com/) - a extreamly good ultra voilet proxy~~
+[Nebula](https://schoolstatus.glitch.me/) - a extreamly good ultra voilet proxy
 
 [Metalic](https://birdfood.gq/) - Another ultravoilet proxy, still in heavy development. Works 50% of the time.
 
