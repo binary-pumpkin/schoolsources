@@ -16,7 +16,7 @@
 
 *[Kproxy](https://192.95.4.124/)* - A ok proxy, not to astheticly pleasing. 
 
-[Ludicrous](https://glittery-imaginary-summer.glitch.me/surf) - an ok proxy
+[Ludicrous](https://thaleyl.studyschooltoday.eu.org/) - a VERY good proxy
 
 [Shadow](https://somber-eggplant-people.glitch.me/) - A FogNetwork Proxy
 
