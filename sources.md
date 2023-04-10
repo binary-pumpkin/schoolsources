@@ -1,4 +1,6 @@
-[3KH0]https://github.com/3kh0
+Here are most of the places i got my stuff, remeber i made almost none any of the things here. Go give these guys some love! :)
+
+https://github.com/3kh0
 
 https://github.com/Minesraft2
 
