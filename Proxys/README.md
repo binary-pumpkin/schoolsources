@@ -34,7 +34,7 @@
 
 [RammerHead](https://www.discoveryeducation.cf/) - A very good simple proxy.
 
-[Intersteller](https://mathematics.baselinux.net/) - A very good proxy website.
+[Intersteller](https://yxzy.mathewparkin.com/) - A very good proxy website.
 
 *[Rouge](https://lakesidetuition.info/)* - Another ultravoilet proxy
 
@@ -57,3 +57,5 @@
 *[Canda math](https://canadamath.azurewebsites.net/#)* - A proxy that uses ultravoilet
 
 [TBG95](https://education-live.fun/) - no notes
+
+[Premium P_R.0.XE1E](https://search.bestmathbooks.online/) - mid ass proxy
