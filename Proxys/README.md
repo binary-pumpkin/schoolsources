@@ -8,9 +8,9 @@
 
 - DONT GIVE THEM OUT, I SWEAR TO GOD
  
-[Ultravoilet](https://ionian-electric-pelican.glitch.me/) - THE ultravoilet, a lot of proxys use this.
+*[Ultravoilet](https://ionian-electric-pelican.glitch.me/) - THE ultravoilet, a lot of proxys use this.
 
-[Holy Unblocker](https://responsible-silk-celestite.glitch.me) - one of the best unblockers 
+*[Holy Unblocker](https://responsible-silk-celestite.glitch.me) - one of the best unblockers 
 
 [Elixer](https://cerryx.net/) - a good proxy
 
@@ -18,9 +18,9 @@
 
 [Ludicrous](https://thaleyl.studyschooltoday.eu.org/) - a VERY good proxy
 
-[Shadow](https://somber-eggplant-people.glitch.me/) - A FogNetwork Proxy
+*[Shadow](https://somber-eggplant-people.glitch.me/) - A FogNetwork Proxy
 
-[Nebula](https://schoolstatus.glitch.me/) - a extreamly good ultra voilet proxy
+*[Nebula](https://schoolstatus.glitch.me/) - a extreamly good ultra voilet proxy
 
 [Metalic](https://birdfood.gq/) - Another ultravoilet proxy, still in heavy development. Works 50% of the time.
 
