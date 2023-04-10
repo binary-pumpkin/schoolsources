@@ -30,7 +30,7 @@
 
 [TIWcog](https://starttiw.vercel.app/static/index.html) - a good vercel proxy.
 
-~~[Incognito](https://incognito-3497.onrender.com/) - A simple unltravoilet proxy (very fast)~~
+[Incognito](https://celestial-lively-girdle.glitch.me/) - A simple unltravoilet proxy (very fast)
 
 [RammerHead](https://www.discoveryeducation.cf/) - A very good simple proxy.
 
