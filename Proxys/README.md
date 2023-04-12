@@ -32,7 +32,7 @@
 
 [Incognito](https://justicehs.herokuapp.com/) - A simple unltravoilet proxy (very fast)
 
-[RammerHead](https://www.discoveryeducation.cf/) - A very good simple proxy.
+[RammerHead](https://reading-helper.cf/) - A very good simple proxy.
 
 [Intersteller](https://yxzy.mathewparkin.com/) - A very good proxy website.
 
