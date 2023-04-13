@@ -50,7 +50,7 @@ Pr0x1es 🖥
 
 - [Node Unblocker](https://science-quizzez.vercel.app/)
 
-- [TBG95](https://education-live.fun/
+- [TBG95](https://education-live.fun/)
 
 - [Premium P_R.0.XE1E](https://search.bestmathbooks.online/)
 
