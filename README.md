@@ -3,14 +3,65 @@ A library of helpful things for school and other random shit all localized into 
 
 *please* dont give any of the stuff out like free (insert analogy here), it is hard to find these and if it gets blocked there is really nothing i can do about it.
 
+
+## Includes 
+
+Pr0x1es 🖥 
+
+- [Ultravoilet](https://ionian-electric-pelican.glitch.me/)
+
+- [Holy Unblocker](https://responsible-silk-celestite.glitch.me)
+
+- [Elixer](https://cerryx.net/)
+
+- [Kproxy](https://192.95.4.124/)
+
+- [Ludicrous](https://thaleyl.studyschooltoday.eu.org/)
+
+- [Shadow](https://somber-eggplant-people.glitch.me/)
+
+- [Nebula](https://schoolstatus.glitch.me/)
+
+- [Metalic](https://birdfood.gq/)
+
+- [Utopia](https://learningprep.xyz/)
+
+- [Abyss](https://panel.redsteedstudios.com/)
+
+- [TIWcog](https://starttiw.vercel.app/static/index.html)
+
+- [Incognito](https://justicehs.herokuapp.com/)
+
+- [RammerHead](https://reading-helper.cf/)
+
+- [Intersteller](https://yxzy.mathewparkin.com/)
+
+- [Rouge](https://lakesidetuition.info/)
+
+- [Ruby Network](https://rubynetwork.tech/search)
+
+- [CroxyProxy](https://www.a.cpfrx.info/)
+
+- [RadonGames](https://rdg.scythx.cf/)
+
+- [Emerald](https://ill.malmo.cl/)
+
+- [Ball bang](https://math.appnaz.com/)
+
+- [Node Unblocker](https://science-quizzez.vercel.app/)
+
+- [TBG95](https://education-live.fun/
+
+- [Premium P_R.0.XE1E](https://search.bestmathbooks.online/)
+
+
+
 **DISCLAMER**
 
 I do not claim or take ownership of most of these Sources and they were moved to this page for general localization!
 Sources for orginal projects creators below.
 
 to see were i got my things go to the "Sources" page
-
-And many more i may have missed.
 
 Go show the orginal creators some love!
 
