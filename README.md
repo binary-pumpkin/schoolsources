@@ -62,7 +62,7 @@ A library of helpful things for school and other random shit all localized into 
 I do not claim or take ownership of most of these Sources and they were moved to this page for general localization!
 Sources for orginal projects creators below.
 
-to see were i got my things go to the "Sources" page
+to see were i got my things go to the [Sources](https://github.com/binary-pumpkin/schoolsources/blob/main/sources.md) page
 
 Go show the orginal creators some love!
 
