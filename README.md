@@ -68,6 +68,7 @@ A library of helpful things for school and other random shit all localized into 
  
  - [Quizlet Cheats](https://github.com/binary-pumpkin/schoolsources/blob/main/Bookmarklet%20Cheats/Quizlet%20Cheats)
  
+ 
 </details>
 
 ## 
