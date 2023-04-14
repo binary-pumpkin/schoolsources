@@ -66,7 +66,7 @@ A library of helpful things for school and other random shit all localized into 
  
  - [Prodigy Cheats](https://github.com/binary-pumpkin/schoolsources/blob/main/Bookmarklet%20Cheats/Prodigy%20X%20Cheat)
  
- -[Quizlet Cheats](https://github.com/binary-pumpkin/schoolsources/blob/main/Bookmarklet%20Cheats/Quizlet%20Cheats)
+ - [Quizlet Cheats](https://github.com/binary-pumpkin/schoolsources/blob/main/Bookmarklet%20Cheats/Quizlet%20Cheats)
  
 </details>
 
