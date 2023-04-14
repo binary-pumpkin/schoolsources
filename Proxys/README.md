@@ -57,3 +57,5 @@
 [TBG95](https://education-live.fun/) - no notes
 
 [Premium P_R.0.XE1E](https://search.bestmathbooks.online/) - mid ass proxy
+
+[Tinfoil](tinf0il.teach) - Good proxy, lots of games
