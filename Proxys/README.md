@@ -8,7 +8,7 @@
 
 - DONT GIVE THEM OUT, I SWEAR TO GOD
  
-*[Cosmic (Ultravoilet Reskin](https://letslearn-math.xyz/) - THE ultravoilet, a lot of proxys use this.
+[Ultravoilet](https://tom.learnushistory.com/) - THE ultravoilet, a lot of proxys use this.
 
 *[Holy Unblocker](https://responsible-silk-celestite.glitch.me) - one of the best unblockers 
 
